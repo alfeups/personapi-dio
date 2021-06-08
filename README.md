@@ -1,5 +1,13 @@
 ## Creating an API REST using Sprint Boot to People Management
 
+In this course we review the steps below:
+
+<li>First of all, the whole project setup using Spring Boot Initialzr;
+<li>A data model to mapping entities into data banks;
+<li> Users management operations; 
+<li> Relations between operations - registering, reading, updating, removing user from the system - taking into account REST concepts while developing the project;
+<li> Deployment using heroku cloud service.
+
 Configuração da estação
 
 `cd /Downloads/`
